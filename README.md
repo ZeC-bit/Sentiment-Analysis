@@ -5,6 +5,11 @@
 1. Crawling the information from the website of stock news (http://www.aastocks.com/en/stocks/news/aafn-company-news) and created news repository by extracting the data from html content. The crawling data fields
 are Headline, Releasing Time, Company Name, Stock Code, Abstract, and Polarity.
 
+2. Performing sentiment analysis utilizing data extracted by using Machine Learning algorithms particularly focused on traditional neural network, and BERT by splitting datasets into 80:20 for training datasets and
+validation datasets.
+
+3. Implementation of various interpolation, optimization algorithms with error analysis, revealed with graphs utilizing
+Pyplot. Started this project as I have an interest on creating intuitive graphs, and reports from different statistical formula and tools to enhance logical approach to analyzing data.
 
 
 
